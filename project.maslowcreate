@@ -18,11 +18,11 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 17
+                            "ioValue": 12
                         },
                         {
                             "name": "y length",
-                            "ioValue": 19
+                            "ioValue": 12
                         }
                     ]
                 },
@@ -68,8 +68,8 @@
                 {
                     "atomType": "Difference",
                     "name": "Difference",
-                    "x": 570,
-                    "y": 189,
+                    "x": 574,
+                    "y": 190,
                     "uniqueID": 103723,
                     "ioValues": []
                 },
