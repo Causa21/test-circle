@@ -10,6 +10,23 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 352,
+                    "y": 110,
+                    "uniqueID": 724633,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Circle",
                     "name": "Circle",
                     "x": 351,
@@ -36,6 +53,14 @@
                     ]
                 },
                 {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 570,
+                    "y": 189,
+                    "uniqueID": 103723,
+                    "ioValues": []
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1870,
@@ -49,6 +74,12 @@
                     "ap2Name": "geometry",
                     "ap1ID": 848747,
                     "ap2ID": 569754
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 569754,
+                    "ap2ID": 103723
                 }
             ],
             "fileTypeVersion": 1
